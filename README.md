@@ -70,5 +70,5 @@ apt update ; git clone https://github.com/Phantom-19/Ping.git ; cd Ping ; python
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40Faxel-brown?logo=skyrock)](https://Faxel.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/Phantom-19/yutube/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/Phantom-19/yutube/master/MIT)
 [![PayPal](https://img.shields.io/badge/PayPal-%20donate-green.svg?logo=paypal)](https://www.paypal.me/)
