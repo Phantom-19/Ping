@@ -12,9 +12,9 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-base-orange.svg?"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/compiler??color=orange"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/compiler??color=red"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/compiler?label=Watchers&color=blue"></a>
+<a href="https://github.com/Phantom-19/Ping/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Ping??color=orange"></a>
+<a href="https://github.com/Phantom-19/Ping/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Ping??color=red"></a>
+<a href="https://github.com/Phantom-19/Ping/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/Ping?label=Watchers&color=blue"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -38,7 +38,6 @@
 
 ## `Installation  `:
 
-* `apt update`
 * `apt install git curl python2 python `
 * `git clone https://github.com/Phantom-19/Ping.git`
 * `cd Ping`
